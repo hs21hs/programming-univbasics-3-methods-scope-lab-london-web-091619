@@ -5,6 +5,9 @@ def mario
   puts phrase
   return status
 end
+mario()
+puts status
+puts status
 
 def toadstool
   puts status
