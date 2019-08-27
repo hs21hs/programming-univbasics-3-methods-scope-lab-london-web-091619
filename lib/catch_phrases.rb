@@ -4,8 +4,6 @@ def mario
   puts phrase
 end
 
-mario()
-puts status
 puts status
 
 def toadstool
